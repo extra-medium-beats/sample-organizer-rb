@@ -1,0 +1,4 @@
+puts "Enter First Name"
+first_name = gets.chomp
+puts "Enter Your Last Name"
+last_name = gets.chomp
